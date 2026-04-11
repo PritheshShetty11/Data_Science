@@ -1,1 +1,5 @@
 # Data_Science
+NumPy is faster than Python lists because it is optimized in C.
+It consumes less memory due to efficient storage.
+It provides vectorized operations, removing the need for slow loops.
+Essential for data science and machine learning workflows.
